@@ -6,7 +6,7 @@
 BEng (Honours) , Mechatronics | Curtin University | June 2024
 
 ## Work Experience
-**Mechanical R&D Intern | Sandvik Rock Processing Australia | Oct 2022 – Feb 2023
+Mechanical R&D Intern | Sandvik Rock Processing Australia | Oct 2022 – Feb 2023
 - Compiled Excel data gathered from sensors and developed reports and graphs for team members.
 - Contributed to multi-disciplinary problem-solving teams for engineering projects and gain knowledge in multiple disciplines.
 - Monitored and reported on daily progress, to keep projects on track.
